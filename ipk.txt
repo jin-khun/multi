@@ -1,2 +1,2 @@
-https://dogefloodgate.000webhostapp.com/faucet.php?&address=DKXGAK5M6ibSmKeofDaYC4CTQ8MJ5EXSi3&currency=DOGE&key=b8aff8f0f00fbf85daf98b423a74e9c8|npazone|60
-https://dogecoinfast.000webhostapp.com/faucet.php?&address=DKXGAK5M6ibSmKeofDaYC4CTQ8MJ5EXSi3&currency=DOGE&key=b8aff8f0f00fbf85daf98b423a74e9c8|npazone|60
+https://dogefloodgate.000webhostapp.com/faucet.php?&address=DU4gVyvAh55VK8j5vFqRCk8bEnEFy5TBqZ&currency=DOGE&key=b8aff8f0f00fbf85daf98b423a74e9c8|npazone|60
+https://dogecoinfast.000webhostapp.com/faucet.php?&address=DU4gVyvAh55VK8j5vFqRCk8bEnEFy5TBqZ&currency=DOGE&key=b8aff8f0f00fbf85daf98b423a74e9c8|npazone|60
